@@ -63,7 +63,7 @@
 # import torch.nn as nn
 
 # Load a pre-trained ResNet18 model
-model = models.resnet50(pretrained=True)
+model = models.resnet18(pretrained=True)
 
 # for param in model.parameters():
 #     param.requires_grad = False
