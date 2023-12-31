@@ -4,7 +4,7 @@
 - Sat Arora (sat.arora@uwaterloo.ca)
 - Richard Fan (r43fan@uwaterloo.ca)
 
-This report explores approaches to build a "Class Activation Map" (CAM) around objects. To do this, we train Convolutional Neural Networks (CNNs) on a face/no-face dataset first to classify images, and then, we can generate heat using the weights trained by the CNN.
+This report explores approaches to building a "Class Activation Map" (CAM) around objects. To do this, we train Convolutional Neural Networks (CNNs) on a face/no-face dataset first to classify images, and then, we can generate heat using the weights trained by the CNN.
 
 Sample heatmap and image classifier output (this is also in the report):
 <img width="570" alt="image" src="https://github.com/sa35577/CAM-Object-Detection/assets/38817928/cc2457b4-d526-479a-93a6-6fbc17d53ca8">
